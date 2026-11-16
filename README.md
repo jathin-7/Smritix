@@ -114,6 +114,7 @@ graph TD
 - **Node.js 20+**
 - *(Optional)* [Docker Desktop](https://www.docker.com/) for PostgreSQL & Qdrant
 - *(Optional)* [Ollama](https://ollama.com/) for local LLM inference (`ollama pull mistral`)
+- *use gemini api 
 
 ### 1. Automated Start (Windows One-Click)
 Run the startup script in your terminal:
